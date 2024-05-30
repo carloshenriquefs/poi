@@ -1,3 +1,7 @@
+## :construction: - Desafio: Projeto POI
+
+![poi](https://github.com/carloshenriquefs/poi/assets/54969405/9538202b-ddf8-4ed7-844a-b61d4d43ccab)
+
 # Pontos de Interesse por GPS
 
 Seu desafio será implementar um serviço para a empresa XY Inc., especializada na produção de excelentes receptores
